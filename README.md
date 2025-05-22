@@ -1,2 +1,2 @@
-# Employee-Managemant
+# Employee-Management
 Employee-management-System
